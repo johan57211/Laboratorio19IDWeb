@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background: #e8e8e8;
+    text-align: center;
+    padding: 20px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    background: white;
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+}
+
+.card img {
+    width: 120px;
+}
+
+.botones button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+}
